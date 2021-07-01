@@ -1,6 +1,6 @@
 # Distill Template
 
-This is the repository for the Distill web framework. 
+This is the repository for the Distill web framework. I've forked it over to PS Media in order to work on it, develop a website and potentially contribute back some simple formatting code to make the notes more useful for humanities and social sciences texts
 
 ## Contributing
 
